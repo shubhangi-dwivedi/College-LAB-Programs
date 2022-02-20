@@ -1,0 +1,1 @@
+This folder contains topics taught in the lab sessions.
